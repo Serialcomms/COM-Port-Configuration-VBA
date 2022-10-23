@@ -7,7 +7,7 @@
 
 
 
-## Installing and Testing
+## Installing VBA
 
 ####  The main VBA module file should be installed first
 
