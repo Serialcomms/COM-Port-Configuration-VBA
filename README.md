@@ -1,4 +1,4 @@
-# COM Port Configuration VBA
+# COM Port Configuration in Excel
 
 <img src="/COM_PORT_CONFIG.bmp" alt="COM_PORT_CONFIG" title="COM Port Configuration" width="40%" height="40%">
 
