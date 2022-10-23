@@ -23,6 +23,9 @@
 
 ## Ribbon Customisation
 
+<details><summary>Ribbon Customisation</summary>
+<p>
+
 #### Adding custom Ribbon tab
 
 The [Office RibbonX Editor](https://github.com/fernandreu/office-ribbonx-editor/releases/tag/v1.9.0) is recommended for Ribbon customisation.  
@@ -33,7 +36,8 @@ Download the file [`RIBBON.xml`](RIBBON.xml) from this folder in preparation for
 
 Follow the [instructions](RibbonCustomisation.md) to install the `RIBBON.xml` customisation file.
 
-
+</p>
+</details>
 
 <details><summary>RibbonX Editor Screenshot</summary>
 <p>
