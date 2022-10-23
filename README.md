@@ -1,6 +1,6 @@
 # COM Port Configuration VBA
 
-<img src="/COM_PORT_CONFIG.bmp" alt="COM_PORT_CONFIG" title="COM Port Configuration" width="50%" height="50%">
+<img src="/COM_PORT_CONFIG.bmp" alt="COM_PORT_CONFIG" title="COM Port Configuration" width="40%" height="40%">
 
 ## Installing and Testing
 
