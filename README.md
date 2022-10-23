@@ -2,6 +2,8 @@
 
 <img src="/Images/COM_PORT_CONFIG.bmp" alt="COM_PORT_CONFIG" title="COM Port Configuration" width="50%" height="50%">
 
+<img src="/Images/COM_PROPERTIES.bmp" alt="COM_PROPERTIES" title="COM Port Properties" width="10%" height="10%">
+
 ## Installing and Testing
 
 ####  The main VBA module file should be installed first
