@@ -145,7 +145,7 @@ Dim Apply_Result As Boolean
 
 MESSAGE_BOX_TITLE = COM_PORTS(Port_Index).Label
 
-Old_Settings = IIf(Len(COM_PORTS(Com_Port_Index).Settings) = LONG_0, "Unknown", COM_PORTS(Com_Port_Index).Settings)
+Old_Settings = IIf(Len(COM_PORTS(Port_Index).Settings) = LONG_0, "Unknown", COM_PORTS(Port_Index).Settings)
 
 With COM_PORTS(Port_Index).New_Comm_Config.DCB
         
