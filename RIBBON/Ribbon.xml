@@ -26,8 +26,7 @@
                 imageMso=     "AddInManager"
                 onAction=     "PortSettings"
                 getEnabled=   "EnableSettings"
-                getSupertip=  "GetSettingsText" />  
-                        
+                getSupertip=  "GetSettingsText" />                       
     </group>
         
    </tab>
