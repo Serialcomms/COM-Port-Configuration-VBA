@@ -36,7 +36,7 @@ Download and install RibbonX following the instructions provided with it.
 
 Download the file [`RIBBON.xml`](/RIBBON/Ribbon.xml) in preparation for use.  
 
-Follow the [instructions](RibbonCustomisation.md) to install the `RIBBON.xml` customisation file.
+Follow the [instructions](/RIBBON/RibbonCustomisation.md) to install the `RIBBON.xml` customisation file.
 
 </p>
 </details>
