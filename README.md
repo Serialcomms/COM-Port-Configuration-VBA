@@ -1,5 +1,7 @@
 # COM Port Configuration VBA
 
+<img src="/COM_PORT_CONFIG.bmp" alt="COM_PORT_CONFIG" title="COM Port Configuration" width="80%" height="80%">
+
 ## Installing and Testing
 
 ####  The main VBA module file should be installed first
