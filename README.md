@@ -7,8 +7,6 @@
 
 
 
-
-
 ## Installing and Testing
 
 ####  The main VBA module file should be installed first
@@ -53,7 +51,7 @@ Follow the [instructions](/RIBBON/RibbonCustomisation.md) to install the `RIBBON
 
 **Successful Ribbon XML customisation and validation using RibbonX editor**  
   
-<img src="/RIBBON/RIBBONX_CONFIG.bmp" alt="RibbonX" title="RibbonX Result" width="80%" height="80%">
+<img src="/Images/RIBBONX_CONFIG.bmp" alt="RibbonX" title="RibbonX Result" width="80%" height="80%">
 
 </p>
 </details>
