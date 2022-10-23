@@ -124,6 +124,7 @@ Select Case DLL_Error
  Case LONG_0:   APPLY_PORT_SETTINGS Port_Index
                          
  Case 87:       MESSAGE_BOX_TEXT = "COM PORT ERROR": MESSAGE_BOX_BUTTONS = vbCritical + vbOKOnly
+            '   DLL Error 87 may be returned by COM port types which do not support settings being changed - e.g. some virtual COM ports
   
  Case 1223:     MESSAGE_BOX_TEXT = "Change Setttings Cancelled": MESSAGE_BOX_BUTTONS = vbInformation + vbOKOnly
     
