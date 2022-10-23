@@ -44,7 +44,7 @@ Follow the [instructions](RibbonCustomisation.md) to install the `RIBBON.xml` cu
 
 **Successful Ribbon XML customisation and validation using RibbonX editor**  
   
- <img src="/RIBBON/RIBBONX_CONFIG.bmp" alt="RibbonX" title="RibbonX Result" width="80%" height="80%">
+<img src="/RIBBON/RIBBONX_CONFIG.bmp" alt="RibbonX" title="RibbonX Result" width="80%" height="80%">
 
 </p>
 </details>
