@@ -160,8 +160,6 @@ Select Case MESSAGE_BOX_RESULT
 Case vbOK
 
 If OPEN_COM_PORT(Port_Index) Then
-
-    Com_Port_Ribbon.InvalidateControl ("CP_Settings")
         
     If Apply_Port_DCB(COM_PORTS(Port_Index).Handle, COM_PORTS(Port_Index).New_Comm_Config.DCB) Then
           
