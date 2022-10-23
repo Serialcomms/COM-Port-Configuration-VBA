@@ -1,0 +1,36 @@
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui" onLoad="InitPortRibbon">
+ <ribbon>
+  <tabs>
+   <tab id="TAB_COM_PORTS" label="COM Ports" insertAfterMso="TabHome">
+
+    <group id="GROUP_SELECTOR" label="Com Port Selector">
+        
+     <button    id=           "CP_Button"
+                onAction=     "PortScan"
+                getLabel=     "GetButtonLabel"
+                getSupertip=  "GetSupertipText" />
+              
+     <dropDown  id=           "CP_Selector"
+                getItemID=    "AddPortID"
+                getItemLabel= "AddPortLabel"
+                getItemCount= "GetPortCount"
+                onAction=     "GetPortIndex"
+                sizeString=   "No COM Ports  ." />                                                     
+     </group>
+        
+     <group id="GROUP_SETTINGS" label="Com Port Settings">
+                                                                                
+     <button    id=           "CP_Settings"             
+                getLabel=     "GetSettingsLabel"
+                size=         "large"
+                imageMso=     "AddInManager"
+                onAction=     "PortSettings"
+                getEnabled=   "EnableSettings"
+                getSupertip=  "GetSettingsText" />  
+                        
+    </group>
+        
+   </tab>
+  </tabs>
+ </ribbon>
+</customUI>
