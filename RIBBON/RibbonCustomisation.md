@@ -25,7 +25,10 @@ The selected COM Port needs to be opened briefly to apply settings.
 
 The following DLL Errors may appear in a message box after clicking OK to apply.
 
-**DLL Error 5**  - port could not be opened  
-**DLL Error 87** - port does not support selected values
+**DLL Error 5**  - Com port could not be opened  [^1]  
+**DLL Error 87** - Com port does not support selected values  [^2]
 
 The COM port will be closed again if open after attempting to apply settings
+
+[^1]:  Port may be open with another application 
+[^2]:  Selected value out of range or port does not support any changes (e.g. some virtual port types)
