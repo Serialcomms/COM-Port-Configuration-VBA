@@ -90,7 +90,7 @@ The text "Select Com Port" is clickable.
 
 [DLL Errors](/README_DLL_ERRORS.md) may be returned if the port is unavailable or the settings cannot be applied to it.
   
-If COM ports have been added, removed or renumbered, then clicking "Select Com Port" will perform a new port scan.
+If COM ports have been added, removed or renumbered, then clicking "Select Com Port" will perform a new port scan.  
 Note that some port types (e.g. software virtual com ports) may not support any settings changes from default.   
 
 </p>
