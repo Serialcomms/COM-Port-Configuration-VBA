@@ -26,7 +26,7 @@ The following DLL Errors may appear in a message box after clicking OK to apply.
 
 <p float="left">
   
-  <img align="top" src="/Images/DLL_ERROR_5.bmp" alt="DLL Error 5" title="DLL Error 5" width="15%" height="15%">
+  <img align="top" src="/Images/DLL_ERROR_5.bmp"  alt="DLL Error 5"  title="DLL Error 5"  width="15%" height="15%">
   <img align="top" src="/Images/DLL_ERROR_87.bmp" alt="DLL Error 87" title="DLL Error 87" width="15%" height="15%">
 
 </p>
