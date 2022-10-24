@@ -1,8 +1,7 @@
 ## DLL Error Messages
 
-The selected COM Port needs to be opened briefly to apply settings. 
 
-The following DLL Errors may appear in a message box after clicking OK to apply.
+The following DLL Errors may appear in a message box after clicking OK to apply new settings.
 
 <p float="left">
   
