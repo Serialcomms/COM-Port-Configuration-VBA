@@ -88,8 +88,7 @@ The text "Select Com Port" is clickable.
 <details><summary>DLL Errors</summary>
 <p>
 
-DLL Errors may be returned if the port is unavailable or the settings cannot be applied to it. 
-
+[DLL Errors](/README_DLL_ERRORS.md) may be returned if the port is unavailable or the settings cannot be applied to it. 
 
 </p>
 </details>
