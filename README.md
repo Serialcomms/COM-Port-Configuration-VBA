@@ -82,7 +82,17 @@ The text "Select Com Port" is clickable.
 <p>
   
 - Clicking the icon will start the Windows Com Port Config dialogue window.
-- Changes can be selected in the dialogue window   
+- Changes can be selected in the dialogue window in preparation for change.
+- The selected COM port needs to be opened briefly to apply the changes. 
+
+<details><summary>DLL Errors</summary>
+<p>
+
+DLL Errors may be returned if the port is unavailable or the settings cannot be applied to it. 
+
+
+</p>
+</details>
 
 </p>
 </details>
