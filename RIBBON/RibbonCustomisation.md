@@ -17,6 +17,8 @@
 13. Confirm that a new tab **COM Ports** is present in the Excel Ribbon menu 
 14. Check that tab controls are responsive, including clicking button above drop-down
 
+---
+
 #### DLL Error Messages
 
 The selected COM Port needs to be opened briefly to apply settings. 
