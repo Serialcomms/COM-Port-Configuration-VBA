@@ -31,4 +31,4 @@ The following DLL Errors may appear in a message box after clicking OK to apply.
 The COM port will be closed again if open after attempting to apply settings
 
 [^1]:  Port may be open with another application or has been removed since last port scan
-[^2]:  Selected value out of range or port does not support any changes (e.g. some virtual port types)
+[^2]:  Selected settings out of range or port does not support any setting changes (e.g. some virtual port types)
