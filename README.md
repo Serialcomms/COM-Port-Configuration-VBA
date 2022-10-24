@@ -71,16 +71,18 @@ The text "Select Com Port" is clickable.
 
 <details><summary>COM Port Drop-Down</summary>
 <p>
-- The drop-down is populated when initially opening the Workbook, or by clicking the "Select Com Port button above it.    
+  
+- The drop-down is populated when initially opening the Workbook, or by clicking the "Select Com Port button above it.  
 - Selecting a drop-down item will refresh the Com Port Settings icon on the right.  
-  
-  
   
 </p>
 </details>
 
 <details><summary>COM Port Settings</summary>
 <p>
+  
+- Clicking the icon will start the Windows Com Port Config dialogue window.
+- Changes can be selected in the dialogue window   
 
 </p>
 </details>
