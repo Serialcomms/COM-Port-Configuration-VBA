@@ -65,7 +65,7 @@ The text **Select Com Port** is clickable.
 
 - Clicking it will perform another com port scan and update the drop-down box below it. 
 - Text will change to **Detect Com Port** if no ports are available. 
-- Mouse hovering over it will show a 'Supertext' message with the :-  
+- Mouse hovering over it will show a 'Supertip' message with the :-  
 
 1.   number of Com ports available 
 2.   last port scan date and time   
