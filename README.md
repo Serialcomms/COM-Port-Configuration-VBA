@@ -56,6 +56,22 @@ Follow the [instructions](/RIBBON/RibbonCustomisation.md) to install the `RIBBON
 </p>
 </details>
 
+## Using Tab Controls
 
+<details><summary>Select COM Port</summary>
+<p>
 
+</p>
+</details>
 
+<details><summary>COM Port Drop-Down</summary>
+<p>
+
+</p>
+</details>
+
+<details><summary>COM Port Settings</summary>
+<p>
+
+</p>
+</details>
