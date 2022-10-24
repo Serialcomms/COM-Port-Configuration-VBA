@@ -63,7 +63,7 @@ Follow the [instructions](/RIBBON/RibbonCustomisation.md) to install the `RIBBON
   
 The text **Select Com Port** is clickable.  
 - Mouse hovering over it will show a 'Supertext' message with the number of ports available and the last port scan time.  
-- Clicking it will perform another com port scan and update the srop-down box below it.  
+- Clicking it will perform another com port scan and update the drop-down box below it.  
 - Text will change to **Detect Com Port** if no ports are available.   
 
 </p>
