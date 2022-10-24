@@ -16,5 +16,14 @@
 12. Re-open the saved document in Excel as normal
 13. Confirm that a new tab **COM Ports** is present in the Excel Ribbon menu 
 14. Check that tab controls are responsive, including clicking button above drop-down
-15. COM Port needs to be opened briefly to apply settings - DLL Error 5 if open fails
-16. DLL Error 87 in message box indicates that port does not support selected values
+
+#### DLL Error Messages
+
+The selected COM Port needs to be opened briefly to apply settings. 
+
+The following DLL Errors may appear in a message box after clicking OK to apply.
+
+**DLL Error 5**  - port could not be opened  
+**DLL Error 87** - port does not support selected values
+
+The COM port will be closed again if open after attempting to apply settings
