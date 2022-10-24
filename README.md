@@ -70,6 +70,7 @@ The text **Select Com Port** is clickable.
 1.   number of Com ports available 
 2.   last port scan date and time   
 
+  Com ports are not opened and do not need to be free during a port scan.
  
 </p>
 </details>
