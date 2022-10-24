@@ -67,8 +67,8 @@ The text **Select Com Port** is clickable.
 - Text will change to **Detect Com Port** if no ports are available. 
 - Mouse hovering over it will show a 'Supertext' message with the :-  
 
-1.   number of ports available 
-2.   last port scan time.  
+1.   number of Com ports available 
+2.   last port scan date and time   
 
  
 </p>
